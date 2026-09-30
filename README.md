@@ -9,7 +9,7 @@ The application supports basic arithmetic operations, real-time input handling, 
 ## 🌐 Live Demo
 
 🔗 **Live Website:**
-`https://Mohit2422005.github.io/CodeAlpha_Frontend_1/`
+`https://mohit2422005.github.io/CodeAlpha_Frontend_1/`
 
 ---
 
@@ -172,7 +172,7 @@ Folder: / (root)
 ### Live URL
 
 ``
-https://Mohit2422005.github.io/CodeAlpha_Frontend_1/
+https://mohit2422005.github.io/CodeAlpha_Frontend_1/
 ```
 
 ---
