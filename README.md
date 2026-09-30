@@ -2,7 +2,7 @@
 
 A clean and responsive calculator web application built using **HTML5, CSS3, and Vanilla JavaScript**. The application supports basic arithmetic operations, real-time display updates, keyboard input, and responsive UI interactions.
 
-🔗 **Live Demo:** `https://mohit2422005.github.io/calculator/`
+🔗 **Live Demo:** https://mohit2422005.github.io/calculator/
 
 ---
 
