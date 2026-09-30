@@ -172,7 +172,7 @@ Folder: / (root)
 ### Live URL
 
 ``
-https://mohit2422005.github.io/CodeAlpha_Frontend_1/
+https://mohit2422005.github.io/CodeAlpha_Frontend-1/
 ```
 
 ---
